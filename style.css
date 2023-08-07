@@ -1,0 +1,92 @@
+body{
+    font-family: 'Concert One', cursive;
+font-family: 'Dosis', sans-serif;
+font-family: 'Fira Sans', sans-serif;
+}
+.logo{
+    margin-left:20px;
+}
+.navbar ul li a{
+    color:red;
+    text-decoration: none;
+    font-weight:200;
+    font-size: 20px;
+}
+.navbar ul li{
+    display: inline-block;
+    margin: 10px;
+}
+.navbar ul li a:hover{
+    color:white;
+    transition-duration:1s;
+}
+.navbar ul{
+margin-left:700px;
+margin-top:-40px;
+}
+.menu{
+    background-color: black;
+    margin-top: -7px;
+    width:1378px;
+    margin-left:-20px;
+    height:100px;
+}
+.contactme{
+    padding:10px;
+    width:100px;
+    border:0;
+    border-radius:5px;
+    background-color: red;
+    color:#fff;
+
+}
+.contactme:hover{
+    background-color: #fff;
+    color:black
+}
+.rudraimg{
+    width:400px;
+    margin-left:800px;
+    margin-top:-300px;
+}
+.aboutmep{
+    color:#fff;
+    margin-left: 600px;
+    font-size: 20px;
+    margin-top:-250px;
+}
+.prizes{
+letter-spacing:60px;
+
+}
+.prizes img{
+    width:300px;
+}
+.form label{
+    color:#fff;
+    font-size: 30px;
+    
+}
+.form input{
+width:300px;
+height:40px;
+border-radius:5px;
+border:0;
+}
+.form button{
+    padding:10px;
+    width:200px;
+    border-radius: 5px;
+    border:0px;
+}
+.form button:hover{
+background-color: red;
+color:#fff;
+
+}
+.form{
+    background-color: black;
+    height:300px;
+    padding: 20px;
+}
+
